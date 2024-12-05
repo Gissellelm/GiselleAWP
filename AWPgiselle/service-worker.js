@@ -5,10 +5,7 @@ const CACHE_ASSETS = [
   '/index.html',
   '/css/styles.css',
   '/js/scripts.js',
-  'assets/img/logo.png',
-  'assets/img/ac.png',
-  'assets/img/prest.png',
-  '/assets/zdon.png'
+  'assets/img/logo.png'
 ];
 
 // Evento de instalación
